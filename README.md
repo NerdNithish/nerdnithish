@@ -32,7 +32,7 @@ I'm earning it — by first **becoming the Blue Team**.
 That means learning how attackers hide... so I can expose them.
 
 ---
-
+📬 [LinkedIn](www.linkedin.com/in/nithish-kumar-cyber)
 📬 DM-friendly. Always learning.  
 🎯 Currently seeking a **cybersecurity internship** to apply my hands-on skills in a real SOC setting.
 
