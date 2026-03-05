@@ -1,4 +1,5 @@
 # 👋 Hey, I’m Nithishkumar
+📍 India | Open to Remote / On-site Internship Opportunities
 
 🔐 SOC-focused cybersecurity student building hands-on lab experience in log analysis, network segmentation, Linux security monitoring, and structured incident investigation.
 
