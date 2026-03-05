@@ -1,39 +1,41 @@
 # 👋 Hey, I’m Nithishkumar
 
-🔐 Red Team aspirant grounded in Blue Team fundamentals.  
-Currently sharpening my detection, scripting, and incident response skills — one real-world lab at a time.
+🔐 SOC-focused cybersecurity student building hands-on lab experience in log analysis, network segmentation, Linux security monitoring, and structured incident investigation.
+
+My approach:  
+I simulate attacker techniques in controlled lab environments to better understand detection patterns, logging behavior, and defensive response workflows.
 
 ---
 
-### 🚩 What I'm Working On
-- 🛡️ SOC Simulator labs: log poisoning, SSH brute-force, reverse shell analysis
-- 🧠 Privilege escalation and rootkit forensics on Linux
-- 🔧 Building a personal red team CLI toolkit in Python
-- 📡 Packet Tracer simulations — network segmentation, ACL evasion, and pivoting
+## 🛠️ Current Focus
+
+• SIEM-based alert triage and authentication monitoring  
+• Linux privilege escalation detection patterns  
+• Network segmentation & access control validation  
+• Python-based security testing automation
 
 ---
 
-### 🧰 Toolbox So Far
-`Linux` · `Bash` · `Python` · `Wireshark` · `tshark` · `iptables`  
-`Cisco Packet Tracer` · `Reverse Shells` · `Netcat / Socat` · `Syslog Forensics`
+## 🧰 Tools & Technologies
+
+`Linux` · `Bash` · `Python` · `Splunk` · `Wireshark` · `tcpdump` · `Nmap` · `Cisco Packet Tracer`
 
 ---
 
-### 📌 Featured Projects
-🔸 [Network Segmentation & ACL Evasion (Red Team Pivoting Lab)](https://github.com/NerdNithish/network-acl-evasion-lab)  
-🔸 [Log Poisoning & Linux Privilege Escalation Lab](https://github.com/NerdNithish/linux-privesc-log-lab)  
-🔸 [Custom Red Team CLI Toolkit (Python)](https://github.com/NerdNithish/red-team-cli-toolkit)
+## 📌 Featured Projects
+
+🔸 [Network Segmentation & ACL Security Validation Lab](https://github.com/NerdNithish/network-acl-evasion-lab)  
+🔸 [Linux Log Analysis & Privilege Escalation Detection Lab](https://github.com/NerdNithish/linux-privesc-log-lab)  
+🔸 [Python Security Testing Toolkit](https://github.com/NerdNithish/red-team-cli-toolkit)
 
 ---
 
-### 🧭 My Path
-I'm not rushing red teaming.  
-I'm earning it — by first **becoming the Blue Team**.  
-That means learning how attackers hide... so I can expose them.
+## 🎯 Career Direction
+
+Actively seeking **SOC / Cybersecurity internship opportunities** to apply hands-on detection, investigation, and log analysis skills in a professional environment.
 
 ---
-📬 [LinkedIn](www.linkedin.com/in/nithish-kumar-cyber)
 
-📬 DM-friendly. Always learning.  
-🎯 Currently seeking a **cybersecurity internship** to apply my hands-on skills in a real SOC setting.
+📬 [LinkedIn](https://www.linkedin.com/in/nithish-kumar-cyber)
 
+💬 Always open to learning, collaboration, and cybersecurity discussions.
