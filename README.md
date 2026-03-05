@@ -1,7 +1,8 @@
 # 👋 Hey, I’m Nithishkumar
-📍 India | Open to Remote / On-site Internship Opportunities
 
 🔐 SOC-focused cybersecurity student building hands-on lab experience in log analysis, network segmentation, Linux security monitoring, and structured incident investigation.
+
+📍 India | Open to SOC / Cybersecurity Internship Opportunities
 
 My approach:  
 I simulate attacker techniques in controlled lab environments to better understand detection patterns, logging behavior, and defensive response workflows.
@@ -22,6 +23,24 @@ I simulate attacker techniques in controlled lab environments to better understa
 `Linux` · `Bash` · `Python` · `Splunk` · `Wireshark` · `tcpdump` · `Nmap` · `Cisco Packet Tracer`
 
 ---
+
+## 🧪 Lab Methodology
+
+My labs follow a structured security workflow:
+
+1️⃣ Simulate attacker behavior in a controlled environment  
+2️⃣ Observe log generation and system behavior  
+3️⃣ Analyze logs to detect attacker activity  
+4️⃣ Document detection patterns and investigation steps
+
+## 📂 Lab Portfolio
+
+These repositories document my hands-on cybersecurity labs and investigation exercises.
+
+🔹 Network security simulations  
+🔹 Linux log analysis investigations  
+🔹 Privilege escalation detection labs  
+🔹 Python-based security tooling experiments
 
 ## 📌 Featured Projects
 
